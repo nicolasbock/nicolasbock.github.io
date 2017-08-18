@@ -1,3 +1,7 @@
+---
+title: Nicolas Bock
+---
+
 You can also find me here...
 
 - [Google
