@@ -1,4 +1,6 @@
-# Nicolas Bock
+---
+title: Nicolas Bock
+---
 
 You can also find me here...
 
