@@ -2,7 +2,12 @@
 title: Nicolas Bock
 ---
 
-You can also find me here...
+# Introduction
+
+I am currently working at SUSE on [SUSE OpenStack
+Cloud](https://www.suse.com/products/suse-openstack-cloud/).
+
+# More Information
 
 - [Google
   Scholar](https://scholar.google.de/citations?user=B8UBOjQAAAAJ&hl=en)
