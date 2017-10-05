@@ -7,7 +7,9 @@ title: Nicolas Bock
 I am currently working at SUSE on [SUSE OpenStack
 Cloud](https://www.suse.com/products/suse-openstack-cloud/).
 
-# Other Places
+# More Information
+
+You can also find me here...
 
 - [Google
   Scholar](https://scholar.google.de/citations?user=B8UBOjQAAAAJ&hl=en)
