@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: "Nicolas Bock"
+description: "..."
+google_analytics: UA-107410166-1
+plugins:
+    - jekyll-seo-tag
