@@ -29,4 +29,4 @@ You can also find me here...
 - `LinkedIn <https://www.linkedin.com/in/nicolasbock1>`_
 - `GitHub <https://github.com/nicolasbock>`_
 - `OpenStack
-  <https://www.stackalytics.com/?release=all&user_id=nicolasbock>`_
+  <https://www.stackalytics.io/?user_id=nicolasbock>`_
